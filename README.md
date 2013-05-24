@@ -1,0 +1,4 @@
+inventory
+=========
+
+multi warehouse inventory
